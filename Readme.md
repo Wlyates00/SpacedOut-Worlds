@@ -1,6 +1,5 @@
 <h1>SpacedOut: Worlds</h1>
 <p>This game was created for a Final Graphic Design class project. </p>
-<p>*THIS GAME IS NO LONGER ON THE APP STORE*</p>
 
 
 <a href = https://sites.google.com/view/spaced-out-worlds/home>Website Link</a>
